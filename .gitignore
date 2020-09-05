@@ -33,5 +33,5 @@ tests/_support/_generated
 /.vagrant
 
 /migrations/m200904_134519_create_employee_table.php
-/models/Employee
-/controllers/EmployeeController
+/models/Employee.php
+/controllers/EmployeeController.php
